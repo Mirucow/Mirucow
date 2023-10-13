@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Hello, I'm Mirucow 🐣</h1>
+  <h1>Mirucow🐣</h1>
   <strong>
   
-  > MinecraftBE, Next.js, React...
+    MinecraftBE, Next.js, React...
   
-  > Typescript ❤
+    Typescript ❤
   
-> 🔮 Granbard, 📒 Dotune
+    🔮 Granbard, 📒 Dotune
   
   </strong>
 </div>
