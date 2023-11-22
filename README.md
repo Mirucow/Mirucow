@@ -2,11 +2,11 @@
   <h1>Mirucow🐣</h1>
   <strong>
   
-    MinecraftBE, Next.js, React...
+    MinecraftBE, Next.js...
   
     Typescript ❤
   
-    🔮 Granbard, 📒 Dotune
+    C++, Python
   
   </strong>
 </div>
