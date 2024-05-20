@@ -2,11 +2,9 @@
   <h1>Mirucow🐣</h1>
   <strong>
   
-    MinecraftBE, Reverse Engineering...
+    MinecraftBE など...
   
-    Typescript, VALORANT ❤
-  
-    C++, Python
+    Typescript, VALORANT が好き
   
   </strong>
 </div>
