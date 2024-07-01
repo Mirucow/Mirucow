@@ -7,4 +7,5 @@
     Typescript, VALORANT が好き
   
   </strong>
+  <img src="https://skillicons.dev/icons?i=ts,rust,go"/>
 </div>
